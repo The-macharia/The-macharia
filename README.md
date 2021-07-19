@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Macharia, a Fullstack software Engineer in Nairobi.
+I'm Macharia, a Fullstack Software Engineer in Nairobi.
 
 - ⚡ - My Stack at the moment includes:
   <ul>
