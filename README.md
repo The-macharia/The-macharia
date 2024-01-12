@@ -26,7 +26,7 @@ I breathe life into your projects with Python, sculpt the front end with Vue.js,
 
 - **Checkmate Champion:** When not debugging code, I'm making strategic moves on the chessboard. A coding genius and a chess grandmaster - I know how to dominate on and off the board.
 
-Let's write some code, crack a few jokes, and maybe even challenge each other to a game of chess! 👾💻🔥 -> [https://www.chess.com/member/ndikwenda][Chess Profile♟️]
+Let's write some code, crack a few jokes, and maybe even challenge each other to a game of chess! 👾💻🔥 -> [https://www.chess.com/member/ndikwenda](Chess Profile♟️)
 
 ## [...🫂]
 
