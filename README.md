@@ -30,7 +30,7 @@ Let's write some code, crack a few jokes, and maybe even challenge each other to
 
 ## [...🫂]
 
-<img src="https://github-readme-stats.vercel.app/api?username=The-macharia&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats-two-lime-85.vercel.app/api?username=The-macharia&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 <!--
 **The-macharia/The-macharia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
