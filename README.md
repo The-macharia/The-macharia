@@ -29,8 +29,9 @@ I breathe life into your projects with Python, sculpt the front end with Vue.js,
 Let's write some code, crack a few jokes, and maybe even challenge each other to a game of chess! 👾💻🔥 -> [Chess Profile♟️](https://www.chess.com/member/ndikwenda)
 
 ## [...🫂]
-![Stats](https://github-readme-stats.vercel.app/api?username=the-macharia&count_private=true&show_icons=true&theme=radical)
 
+<img src="https://github-readme-stats-two-lime-85.vercel.app/api?username=The-macharia&count_private=true&show_icons=true&theme=radical">
+<!--
 **The-macharia/The-macharia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
